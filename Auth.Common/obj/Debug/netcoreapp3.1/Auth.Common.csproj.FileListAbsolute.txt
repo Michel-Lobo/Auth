@@ -1,0 +1,9 @@
+D:\Projetos\Auth\Auth\Auth.Common\bin\Debug\netcoreapp3.1\Auth.Common.deps.json
+D:\Projetos\Auth\Auth\Auth.Common\bin\Debug\netcoreapp3.1\Auth.Common.dll
+D:\Projetos\Auth\Auth\Auth.Common\bin\Debug\netcoreapp3.1\Auth.Common.pdb
+D:\Projetos\Auth\Auth\Auth.Common\obj\Debug\netcoreapp3.1\Auth.Common.csprojAssemblyReference.cache
+D:\Projetos\Auth\Auth\Auth.Common\obj\Debug\netcoreapp3.1\Auth.Common.AssemblyInfoInputs.cache
+D:\Projetos\Auth\Auth\Auth.Common\obj\Debug\netcoreapp3.1\Auth.Common.AssemblyInfo.cs
+D:\Projetos\Auth\Auth\Auth.Common\obj\Debug\netcoreapp3.1\Auth.Common.csproj.CoreCompileInputs.cache
+D:\Projetos\Auth\Auth\Auth.Common\obj\Debug\netcoreapp3.1\Auth.Common.dll
+D:\Projetos\Auth\Auth\Auth.Common\obj\Debug\netcoreapp3.1\Auth.Common.pdb

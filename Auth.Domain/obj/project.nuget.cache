@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "741l32666vjmY/iaA2AxzeuxU7RQDzyUtaHQH5kWZq1kEBN5cEJ5OhAuZeTmM4MsC0HladB+gZkYgdFldxvBXw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Auth\\Auth\\Auth.Domain\\Auth.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miche\\.nuget\\packages\\fluentvalidation\\10.3.0\\fluentvalidation.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

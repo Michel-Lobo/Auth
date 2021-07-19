@@ -1,0 +1,16 @@
+D:\Projetos\Auth\Auth\Auth.CommandHandle\bin\Debug\netcoreapp3.1\Auth.CommandHandler.deps.json
+D:\Projetos\Auth\Auth\Auth.CommandHandle\bin\Debug\netcoreapp3.1\Auth.CommandHandler.dll
+D:\Projetos\Auth\Auth\Auth.CommandHandle\bin\Debug\netcoreapp3.1\Auth.CommandHandler.pdb
+D:\Projetos\Auth\Auth\Auth.CommandHandle\bin\Debug\netcoreapp3.1\Auth.Common.dll
+D:\Projetos\Auth\Auth\Auth.CommandHandle\bin\Debug\netcoreapp3.1\Auth.Database.dll
+D:\Projetos\Auth\Auth\Auth.CommandHandle\bin\Debug\netcoreapp3.1\Auth.Domain.dll
+D:\Projetos\Auth\Auth\Auth.CommandHandle\bin\Debug\netcoreapp3.1\Auth.Database.pdb
+D:\Projetos\Auth\Auth\Auth.CommandHandle\bin\Debug\netcoreapp3.1\Auth.Domain.pdb
+D:\Projetos\Auth\Auth\Auth.CommandHandle\bin\Debug\netcoreapp3.1\Auth.Common.pdb
+D:\Projetos\Auth\Auth\Auth.CommandHandle\obj\Debug\netcoreapp3.1\Auth.CommandHandler.csprojAssemblyReference.cache
+D:\Projetos\Auth\Auth\Auth.CommandHandle\obj\Debug\netcoreapp3.1\Auth.CommandHandler.AssemblyInfoInputs.cache
+D:\Projetos\Auth\Auth\Auth.CommandHandle\obj\Debug\netcoreapp3.1\Auth.CommandHandler.AssemblyInfo.cs
+D:\Projetos\Auth\Auth\Auth.CommandHandle\obj\Debug\netcoreapp3.1\Auth.CommandHandler.csproj.CoreCompileInputs.cache
+D:\Projetos\Auth\Auth\Auth.CommandHandle\obj\Debug\netcoreapp3.1\Auth.CommandHandler.csproj.CopyComplete
+D:\Projetos\Auth\Auth\Auth.CommandHandle\obj\Debug\netcoreapp3.1\Auth.CommandHandler.dll
+D:\Projetos\Auth\Auth\Auth.CommandHandle\obj\Debug\netcoreapp3.1\Auth.CommandHandler.pdb

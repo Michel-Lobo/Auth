@@ -1,0 +1,17 @@
+D:\Projetos\Auth\Auth\Auth.Database\bin\Debug\netcoreapp3.1\Auth.Domain.dll
+D:\Projetos\Auth\Auth\Auth.Database\obj\Debug\netcoreapp3.1\Auth.Database.csprojAssemblyReference.cache
+D:\Projetos\Auth\Auth\Auth.Database\obj\Debug\netcoreapp3.1\Auth.Database.AssemblyInfoInputs.cache
+D:\Projetos\Auth\Auth\Auth.Database\obj\Debug\netcoreapp3.1\Auth.Database.AssemblyInfo.cs
+D:\Projetos\Auth\Auth\Auth.Database\bin\Debug\netcoreapp3.1\Auth.Database.deps.json
+D:\Projetos\Auth\Auth\Auth.Database\bin\Debug\netcoreapp3.1\Auth.Database.dll
+D:\Projetos\Auth\Auth\Auth.Database\bin\Debug\netcoreapp3.1\Auth.Database.pdb
+D:\Projetos\Auth\Auth\Auth.Database\bin\Debug\netcoreapp3.1\Auth.Domain.pdb
+D:\Projetos\Auth\Auth\Auth.Database\obj\Debug\netcoreapp3.1\Auth.Database.csproj.CoreCompileInputs.cache
+D:\Projetos\Auth\Auth\Auth.Database\obj\Debug\netcoreapp3.1\Auth.Database.csproj.CopyComplete
+D:\Projetos\Auth\Auth\Auth.Database\obj\Debug\netcoreapp3.1\Auth.Database.dll
+D:\Projetos\Auth\Auth\Auth.Database\obj\Debug\netcoreapp3.1\Auth.Database.pdb
+D:\Projetos\Auth\Auth\Auth.Database\bin\Debug\netcoreapp3.1\Auth.Database.runtimeconfig.json
+D:\Projetos\Auth\Auth\Auth.Database\bin\Debug\netcoreapp3.1\Auth.Database.runtimeconfig.dev.json
+D:\Projetos\Auth\Auth\Auth.Database\obj\Debug\netcoreapp3.1\Auth.Database.genruntimeconfig.cache
+D:\Projetos\Auth\Auth\Auth.Database\bin\Debug\netcoreapp3.1\Auth.Common.dll
+D:\Projetos\Auth\Auth\Auth.Database\bin\Debug\netcoreapp3.1\Auth.Common.pdb
